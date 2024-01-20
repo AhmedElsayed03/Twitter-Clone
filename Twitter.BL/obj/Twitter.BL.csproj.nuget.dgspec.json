@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Visual Studio Repo\\Twitter.API\\Twitter.BL\\Twitter.BL.csproj": {}
+    "D:\\GitHub Repos\\Twitter-Clone\\Twitter.BL\\Twitter.BL.csproj": {}
   },
   "projects": {
-    "D:\\Visual Studio Repo\\Twitter.API\\Twitter.BL\\Twitter.BL.csproj": {
+    "D:\\GitHub Repos\\Twitter-Clone\\Twitter.BL\\Twitter.BL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Visual Studio Repo\\Twitter.API\\Twitter.BL\\Twitter.BL.csproj",
+        "projectUniqueName": "D:\\GitHub Repos\\Twitter-Clone\\Twitter.BL\\Twitter.BL.csproj",
         "projectName": "Twitter.BL",
-        "projectPath": "D:\\Visual Studio Repo\\Twitter.API\\Twitter.BL\\Twitter.BL.csproj",
+        "projectPath": "D:\\GitHub Repos\\Twitter-Clone\\Twitter.BL\\Twitter.BL.csproj",
         "packagesPath": "C:\\Users\\Ahmed\\.nuget\\packages\\",
-        "outputPath": "D:\\Visual Studio Repo\\Twitter.API\\Twitter.BL\\obj\\",
+        "outputPath": "D:\\GitHub Repos\\Twitter-Clone\\Twitter.BL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Visual Studio Repo\\Twitter.API\\Twitter.DAL\\Twitter.DAL.csproj": {
-                "projectPath": "D:\\Visual Studio Repo\\Twitter.API\\Twitter.DAL\\Twitter.DAL.csproj"
+              "D:\\GitHub Repos\\Twitter-Clone\\Twitter.DAL\\Twitter.DAL.csproj": {
+                "projectPath": "D:\\GitHub Repos\\Twitter-Clone\\Twitter.DAL\\Twitter.DAL.csproj"
               }
             }
           }
@@ -63,14 +63,14 @@
         }
       }
     },
-    "D:\\Visual Studio Repo\\Twitter.API\\Twitter.DAL\\Twitter.DAL.csproj": {
+    "D:\\GitHub Repos\\Twitter-Clone\\Twitter.DAL\\Twitter.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Visual Studio Repo\\Twitter.API\\Twitter.DAL\\Twitter.DAL.csproj",
+        "projectUniqueName": "D:\\GitHub Repos\\Twitter-Clone\\Twitter.DAL\\Twitter.DAL.csproj",
         "projectName": "Twitter.DAL",
-        "projectPath": "D:\\Visual Studio Repo\\Twitter.API\\Twitter.DAL\\Twitter.DAL.csproj",
+        "projectPath": "D:\\GitHub Repos\\Twitter-Clone\\Twitter.DAL\\Twitter.DAL.csproj",
         "packagesPath": "C:\\Users\\Ahmed\\.nuget\\packages\\",
-        "outputPath": "D:\\Visual Studio Repo\\Twitter.API\\Twitter.DAL\\obj\\",
+        "outputPath": "D:\\GitHub Repos\\Twitter-Clone\\Twitter.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config",

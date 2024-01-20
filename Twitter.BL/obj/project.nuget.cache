@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QvKeq0Lplre4ZEqpe2I5tOmSorlLmPanDJ9jymyExsQpGhwWdQ/AE918a+SizhRoLJCISbarh/0u0aYA8PspPg==",
+  "dgSpecHash": "wjUnypC1shPjpggmuCM5jdjy8OM0GZYSq++uF7/R6UeNBURxjgS0CiAK5PSiMKxOwW/wq7BzatAigaKbq0td8w==",
   "success": true,
-  "projectFilePath": "D:\\Visual Studio Repo\\Twitter.API\\Twitter.BL\\Twitter.BL.csproj",
+  "projectFilePath": "D:\\GitHub Repos\\Twitter-Clone\\Twitter.BL\\Twitter.BL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ahmed\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Ahmed\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

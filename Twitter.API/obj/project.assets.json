@@ -4687,11 +4687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Visual Studio Repo\\Twitter.API\\Twitter.API\\Twitter.API.csproj",
+      "projectUniqueName": "D:\\GitHub Repos\\Twitter-Clone\\Twitter.API\\Twitter.API.csproj",
       "projectName": "Twitter.API",
-      "projectPath": "D:\\Visual Studio Repo\\Twitter.API\\Twitter.API\\Twitter.API.csproj",
+      "projectPath": "D:\\GitHub Repos\\Twitter-Clone\\Twitter.API\\Twitter.API.csproj",
       "packagesPath": "C:\\Users\\Ahmed\\.nuget\\packages\\",
-      "outputPath": "D:\\Visual Studio Repo\\Twitter.API\\Twitter.API\\obj\\",
+      "outputPath": "D:\\GitHub Repos\\Twitter-Clone\\Twitter.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4708,8 +4708,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Visual Studio Repo\\Twitter.API\\Twitter.BL\\Twitter.BL.csproj": {
-              "projectPath": "D:\\Visual Studio Repo\\Twitter.API\\Twitter.BL\\Twitter.BL.csproj"
+            "D:\\GitHub Repos\\Twitter-Clone\\Twitter.BL\\Twitter.BL.csproj": {
+              "projectPath": "D:\\GitHub Repos\\Twitter-Clone\\Twitter.BL\\Twitter.BL.csproj"
             }
           }
         }

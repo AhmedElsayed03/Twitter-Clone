@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Twitter.API", "Twitter.API\Twitter.API.csproj", "{8A715959-14BF-4909-BB26-0C2FD4BB510D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Twitter.DAL", "Twitter.DAL\Twitter.DAL.csproj", "{A7599104-BA5A-4DCA-AC8F-6CB585F58BAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Twitter.BL", "Twitter.BL\Twitter.BL.csproj", "{72C19DF2-D9E0-4B87-A361-2E5B3CFA582E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A715959-14BF-4909-BB26-0C2FD4BB510D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A715959-14BF-4909-BB26-0C2FD4BB510D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A715959-14BF-4909-BB26-0C2FD4BB510D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A715959-14BF-4909-BB26-0C2FD4BB510D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7599104-BA5A-4DCA-AC8F-6CB585F58BAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7599104-BA5A-4DCA-AC8F-6CB585F58BAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7599104-BA5A-4DCA-AC8F-6CB585F58BAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7599104-BA5A-4DCA-AC8F-6CB585F58BAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72C19DF2-D9E0-4B87-A361-2E5B3CFA582E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72C19DF2-D9E0-4B87-A361-2E5B3CFA582E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72C19DF2-D9E0-4B87-A361-2E5B3CFA582E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72C19DF2-D9E0-4B87-A361-2E5B3CFA582E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {580DC6BA-21A5-4713-8D8D-D30DE8A42561}
+	EndGlobalSection
+EndGlobal

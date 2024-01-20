@@ -1,0 +1,14 @@
+D:\Visual Studio Repo\Twitter.API\Twitter.DAL\bin\Debug\net8.0\Twitter.DAL.deps.json
+D:\Visual Studio Repo\Twitter.API\Twitter.DAL\bin\Debug\net8.0\Twitter.DAL.dll
+D:\Visual Studio Repo\Twitter.API\Twitter.DAL\bin\Debug\net8.0\Twitter.DAL.pdb
+D:\Visual Studio Repo\Twitter.API\Twitter.DAL\obj\Debug\net8.0\Twitter.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Repo\Twitter.API\Twitter.DAL\obj\Debug\net8.0\Twitter.DAL.AssemblyInfoInputs.cache
+D:\Visual Studio Repo\Twitter.API\Twitter.DAL\obj\Debug\net8.0\Twitter.DAL.AssemblyInfo.cs
+D:\Visual Studio Repo\Twitter.API\Twitter.DAL\obj\Debug\net8.0\Twitter.DAL.csproj.CoreCompileInputs.cache
+D:\Visual Studio Repo\Twitter.API\Twitter.DAL\obj\Debug\net8.0\Twitter.DAL.dll
+D:\Visual Studio Repo\Twitter.API\Twitter.DAL\obj\Debug\net8.0\refint\Twitter.DAL.dll
+D:\Visual Studio Repo\Twitter.API\Twitter.DAL\obj\Debug\net8.0\Twitter.DAL.pdb
+D:\Visual Studio Repo\Twitter.API\Twitter.DAL\obj\Debug\net8.0\ref\Twitter.DAL.dll
+D:\Visual Studio Repo\Twitter.API\Twitter.DAL\bin\Debug\net8.0\Twitter.DAL.runtimeconfig.json
+D:\Visual Studio Repo\Twitter.API\Twitter.DAL\obj\Debug\net8.0\Twitter.DAL.csproj.AssemblyReference.cache
+D:\Visual Studio Repo\Twitter.API\Twitter.DAL\obj\Debug\net8.0\Twitter.DAL.genruntimeconfig.cache
